@@ -4,9 +4,11 @@ import { Outlet } from 'react-router';
 
 const Root = () => {
     return (
-        <div>
+        <div className='flex flex-col h-svh'>
            <NavBar></NavBar>
-           <Outlet></Outlet>
+           <div className='flex-1'>
+                <Outlet></Outlet>
+           </div>
            <Footer></Footer>
         </div>
     );
