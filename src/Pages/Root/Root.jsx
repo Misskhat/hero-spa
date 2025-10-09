@@ -6,7 +6,7 @@ const Root = () => {
     return (
         <div className='flex flex-col h-svh'>
            <NavBar></NavBar>
-           <div className='flex-1'>
+           <div className='flex-1 bg-[#F5F5F5]'>
                 <Outlet></Outlet>
            </div>
            <Footer></Footer>

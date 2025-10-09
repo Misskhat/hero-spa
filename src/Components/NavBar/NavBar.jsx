@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa6";
 const NavBar = () => {
     return (
         <div className="bg-base-100 shadow-sm ">
-            <div className="navbar w-[1440px] mx-auto">
+            <div className="navbar md:w-[1280px] mx-auto">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -27,7 +27,7 @@ const NavBar = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow hover:btn-ghost hover:btn"
                     >
                         <NavLink
                             to={"/"}
@@ -53,7 +53,7 @@ const NavBar = () => {
                 <div>
                     <div className="w-[40px] h-[40px] "><img src={logo} alt="" /></div>
                 </div>
-                <p className="font-bold text-[#632EE3] opacity-[88%] max-sm:hidden">HERO.IO</p>
+                <p className="font-bold text-[#9F62F2] opacity-[88%] max-sm:hidden">HERO.IO</p>
                 </Link>
             </div>
             <div className="navbar-center hidden lg:flex">
@@ -79,7 +79,7 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <Link to={"https://github.com/Misskhat"} target="blank" className={"btn text-xl text-white px-4 py-3 bg-gradient-to-l from-[#632EE3] to-[#9F62F2] "}><FaGithub /> Contribute</Link>
+                <Link to={"https://github.com/Misskhat"} target="blank" className={"btn text-xl text-white px-4 py-3 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] "}><FaGithub /> Contribute</Link>
             </div>
         </div>
         </div>

@@ -8,13 +8,14 @@ import {Link} from "react-router";
 const Footer = () => {
     return (
         <div className="bg-neutral">
-            <footer className="footer sm:footer-horizontal text-neutral-content px-7 pt-5 pb-2 md:flex justify-between items-center w-[1440px] mx-auto">
+            <footer className="footer sm:footer-horizontal text-neutral-content px-7 pt-5 pb-2
+             md:flex justify-between items-center md:w-[1280px] mx-auto">
                 <aside>
                     <div className="flex gap-1 items-center">
                         <img className="w-[40px] h-[40px]" src={logo} alt="" />
                         <span className="font-bold">HERO.IO</span>
                     </div>
-                    <p>Trusted Application Information and Installation Service</p>
+                    <p className="w-2/3">Trusted Application Information and Installation Service</p>
                 </aside>
                 <nav>
                     <h6 className=" text-white text-xl">Social Links</h6>

@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/ymYWY410/travelGo.webp",
+    "title": "TravelGo - Explore the World",
+    "companyName": "SkyTrip Technologies",
+    "id": 1,
+    "description": "TravelGo is your personal travel assistant, helping you discover new destinations, book flights, hotels, and plan itineraries with ease. The app curates unique travel experiences based on your interests and budget. With offline maps, real-time currency conversion, and language translation tools, TravelGo ensures smooth journeys anywhere. You can browse hidden gems, read verified traveler reviews, and get exclusive travel deals. Its smart AI engine suggests best times to visit places and helps you track expenses during trips. Whether it’s a weekend getaway or a world tour, TravelGo simplifies planning so you can focus on exploring and creating unforgettable memories.",
+    "size": 88,
+    "reviews": 2900,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 740 },
+      { "name": "5 star", "count": 1620 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gM3484B5/budget-Pro.png",
+    "title": "BudgetPro - Expense Tracker",
+    "companyName": "FinSmart Tech",
+    "id": 2,
+    "description": "BudgetPro helps you manage finances with ease by tracking your expenses, income, and savings in real time. The app offers intuitive charts, budget limits, and spending insights to help you stay financially organized. You can categorize expenses, set recurring payments, and receive alerts when nearing your budget cap. It supports multiple currencies and automatic bank syncing for convenience. With data encryption and offline access, BudgetPro keeps your financial data safe and available anytime. Whether you’re planning for monthly savings or big investments, BudgetPro provides clarity and control over your money, ensuring financial stability and smarter decision-making every day.",
+    "size": 64,
+    "reviews": 1950,
+    "ratingAvg": 4.5,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 65 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 1075 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nNqvK3Lz/docuMate.webp",
+    "title": "DocuMate - PDF Scanner & Editor",
+    "companyName": "Paperless Tools",
+    "id": 3,
+    "description": "DocuMate is a smart document scanner and PDF editor built to digitize your paperwork effortlessly. Using your phone’s camera, it captures clear, high-quality scans of receipts, notes, and official papers. You can crop, enhance, merge, and annotate PDFs easily. DocuMate offers OCR text recognition to convert scanned images into editable text. With cloud sync and folder organization, you can securely store and share files anywhere. The app supports electronic signatures and password protection for sensitive documents. DocuMate turns your smartphone into a portable office, helping you stay organized and productive without piles of paper.",
+    "size": 73,
+    "reviews": 3300,
+    "ratingAvg": 4.7,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 670 },
+      { "name": "5 star", "count": 2060 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hxZb06dv/eduSpark.png",
+    "title": "EduSpark - Learn Anything",
+    "companyName": "BrightMind Learning",
+    "id": 4,
+    "description": "EduSpark is an interactive learning platform that connects you to thousands of online courses in technology, business, and creativity. The app provides personalized recommendations, video lectures, and quizzes to enhance understanding. You can learn at your own pace, download lessons for offline access, and earn certificates after completion. EduSpark’s AI tracks your learning style and adapts course suggestions accordingly. Teachers and creators can upload courses with built-in tools for engagement and progress tracking. It’s perfect for students, professionals, and lifelong learners who want to upgrade their skills anytime, anywhere. EduSpark turns learning into a fun, engaging experience for all ages.",
+    "size": 105,
+    "reviews": 4400,
+    "ratingAvg": 4.7,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 890 },
+      { "name": "5 star", "count": 2780 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tpdbqqrK/fit-Journey.png",
+    "title": "FitJourney - Fitness Tracker",
+    "companyName": "MotionPro Studios",
+    "id": 5,
+    "description": "FitJourney is your all-in-one fitness companion, designed to track workouts, steps, calories, and sleep. It features guided workout plans from certified trainers, progress graphs, and personalized challenges to keep you motivated. The app connects seamlessly with smartwatches and wearables, ensuring accurate data tracking. FitJourney also provides nutrition guidance and hydration reminders to help you stay consistent. Whether you’re aiming to lose weight, gain muscle, or maintain a balanced lifestyle, FitJourney adapts to your goals. The community section lets you share progress with friends and earn badges for milestones. FitJourney turns fitness into a lifestyle by helping you stay organized, inspired, and focused on long-term results.",
+    "size": 92,
+    "reviews": 2400,
+    "ratingAvg": 4.8,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 1610 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/d0Pf2wKX/focusly.webp",
+    "title": "Focusly - Productivity Timer",
+    "companyName": "ZenTech Labs",
+    "id": 6,
+    "description": "Focusly is a minimalistic productivity timer designed to help you stay concentrated while working or studying. Inspired by the Pomodoro technique, Focusly breaks your tasks into short, manageable sessions followed by refreshing breaks. The app allows customization of work and rest intervals, daily goals, and focus sounds. You can track your daily, weekly, and monthly progress with detailed charts and reports. It’s perfect for students, freelancers, and professionals who struggle with procrastination. Focusly is lightweight, runs smoothly on most devices, and integrates seamlessly with your calendar. With Focusly, you’ll find it easier to manage your time, reduce distractions, and achieve consistent progress in your personal and professional goals.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 645 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bgKFzhhJ/game-Vault.png",
+    "title": "GameVault - Mobile Arcade",
+    "companyName": "PlayVerse Studios",
+    "id": 7,
+    "description": "GameVault is an ultimate hub for mobile gamers, featuring hundreds of free-to-play mini-games and arcade classics. The app offers leaderboards, daily challenges, and multiplayer competitions. You can earn rewards, unlock achievements, and customize your gaming profile. GameVault is lightweight and optimized for smooth gameplay even on low-end devices. It updates weekly with new titles, ensuring endless fun. Whether you enjoy puzzles, racing, or strategy games, GameVault brings variety and excitement to your fingertips. Compete with friends, track scores, and experience the joy of gaming without ads or interruptions.",
+    "size": 130,
+    "reviews": 9100,
+    "ratingAvg": 4.5,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 390 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 5260 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HLWTzzN2/homeEase.png",
+    "title": "HomeEase - Smart Living App",
+    "companyName": "Domotic Systems",
+    "id": 8,
+    "description": "HomeEase is a modern smart home management app that allows you to control, monitor, and automate all your devices from a single interface. It supports a wide range of smart plugs, lights, cameras, and thermostats. With voice assistant integration and remote access, you can manage your home even when you’re away. HomeEase includes scheduling features for energy efficiency and safety alerts for unusual activity. The dashboard provides real-time analytics of energy consumption and device performance. Whether you’re at work or on vacation, HomeEase gives you full control over your environment, ensuring comfort, security, and smart living made simple and efficient.",
+    "size": 89,
+    "reviews": 2100,
+    "ratingAvg": 4.6,
+    "downloads": 930000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 490 },
+      { "name": "5 star", "count": 1130 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/v6qN9bkr/lang-Boost.png",
+    "title": "LangBoost - Learn Languages",
+    "companyName": "PolyLingua Ltd.",
+    "id": 9,
+    "description": "LangBoost makes learning new languages fun and interactive through games, videos, and daily challenges. It offers 25+ languages including Spanish, French, Japanese, and Korean. The app focuses on real-world conversation practice, pronunciation feedback, and vocabulary quizzes. You can track your streaks, earn badges, and compete with friends to stay motivated. LangBoost’s AI tutor personalizes lessons according to your progress and goals. Offline mode allows learning anywhere, anytime. Whether you’re preparing for travel, business, or study, LangBoost provides an engaging and effective way to master a new language with confidence and ease.",
+    "size": 95,
+    "reviews": 5100,
+    "ratingAvg": 4.8,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1020 },
+      { "name": "5 star", "count": 3230 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLMvcBRt/mealMate.webp",
+    "title": "MealMate - Healthy Recipes",
+    "companyName": "NutriCore Inc.",
+    "id": 10,
+    "description": "MealMate brings hundreds of chef-crafted, nutritionist-approved recipes to your fingertips. Whether you’re vegan, keto, or simply trying to eat healthier, MealMate helps you find delicious meal options tailored to your dietary preferences. The app includes a built-in calorie calculator, meal planner, and grocery list generator. You can explore step-by-step video tutorials and save your favorite recipes for offline access. MealMate’s intelligent recommendation system suggests new dishes based on your past activity and health goals. It also syncs with popular fitness apps to track your daily intake and progress. With beautiful visuals, easy navigation, and personalized recommendations, MealMate makes healthy eating both fun and sustainable.",
+    "size": 78,
+    "reviews": 850,
+    "ratingAvg": 4.5,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 330 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8LRZbx4y/mindFlow.png",
+    "title": "MindFlow - Meditation & Sleep",
+    "companyName": "CalmSpace Apps",
+    "id": 11,
+    "description": "MindFlow is a soothing meditation app crafted to help you relax, reduce anxiety, and improve sleep quality. It offers guided meditations, breathing exercises, and calming music playlists. You can set daily mindfulness reminders, track your mental health progress, and choose from hundreds of meditation sessions tailored for stress, focus, or rest. MindFlow’s sleep sounds and bedtime stories are scientifically designed to improve relaxation and sleep consistency. The app integrates with health trackers to monitor heart rate and relaxation levels. MindFlow creates a peaceful environment for users to reconnect with themselves and build a consistent meditation habit for a calmer, balanced life.",
+    "size": 70,
+    "reviews": 2200,
+    "ratingAvg": 4.9,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 1570 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SXy7hJv7/mindNote.jpg",
+    "title": "MindNote - Idea Organizer",
+    "companyName": "ThinkFlow Inc.",
+    "id": 12,
+    "description": "MindNote is a powerful brainstorming and idea management app designed to capture your thoughts visually. It allows you to create mind maps, flowcharts, and concept diagrams with ease. Perfect for students, designers, and entrepreneurs, MindNote turns scattered ideas into structured plans. You can collaborate with teammates, export projects, and integrate with tools like Google Drive and Notion. The app supports drag-and-drop editing and customizable themes for creative flexibility. MindNote helps you think clearly, plan strategically, and innovate effectively without losing track of your inspiration.",
+    "size": 66,
+    "reviews": 2700,
+    "ratingAvg": 4.6,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 95 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 590 },
+      { "name": "5 star", "count": 1635 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6GD50Vb/musicHub.webp",
+    "title": "MusicHub - Stream & Discover",
+    "companyName": "TuneCore Media",
+    "id": 13,
+    "description": "MusicHub is a sleek music streaming app that helps you discover new artists and listen to millions of tracks across genres. It offers high-quality audio streaming, curated playlists, and offline downloads. The smart recommendation engine learns your preferences and tailors suggestions to your mood. MusicHub also provides daily charts, radio stations, and artist interviews. With social sharing and collaborative playlists, you can connect with friends through music. The app’s modern design ensures smooth navigation and immersive listening. MusicHub makes it easy to explore, enjoy, and share music experiences without interruptions or limits.",
+    "size": 85,
+    "reviews": 6700,
+    "ratingAvg": 4.7,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 270 },
+      { "name": "3 star", "count": 580 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 4330 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wZc91VR7/noteEase.png",
+    "title": "NoteEase - Digital Notebook",
+    "companyName": "CreativeSoft",
+    "id": 14,
+    "description": "NoteEase helps you take, organize, and sync notes effortlessly across devices. Whether you’re writing quick ideas, recording meetings, or sketching concepts, NoteEase adapts to your workflow. It supports handwriting, voice recording, and document scanning, making it perfect for students and professionals alike. The app’s search function allows instant access to notes, even from images. With cloud backup and offline mode, you’ll never lose important information. You can categorize notes by tags, colors, or folders for efficient organization. NoteEase brings simplicity, speed, and security together, creating a flexible workspace for everything you need to remember, plan, or create daily.",
+    "size": 54,
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 355 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0yXshYSj/petPal.webp",
+    "title": "PetPal - Pet Care Companion",
+    "companyName": "PawPrint Technologies",
+    "id": 15,
+    "description": "PetPal is a complete pet management app for pet owners who want to ensure their furry friends stay healthy and happy. It helps you track vet appointments, vaccinations, grooming schedules, and diet plans. The app also offers a health record section where you can log symptoms, medications, and daily routines. PetPal includes a pet community feature where you can connect with other owners, find pet-friendly places, and access expert advice. Push reminders ensure you never miss important care dates. Whether you own a cat, dog, or bird, PetPal simplifies pet care while keeping everything organized and stress-free.",
+    "size": 63,
+    "reviews": 1750,
+    "ratingAvg": 4.5,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 65 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 440 },
+      { "name": "5 star", "count": 915 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/b59QNwN6/photo-Craft.png",
+    "title": "PhotoCraft - AI Photo Editor",
+    "companyName": "PixelWave",
+    "id": 16,
+    "description": "PhotoCraft is a next-generation AI-powered photo editing app that transforms ordinary images into stunning visual art. With advanced filters, background removal, sky replacement, and retouching tools, it gives users professional results in seconds. The app’s AI automatically adjusts lighting, sharpness, and color balance for natural enhancement. You can also generate creative effects like cartoon portraits and cinematic tones. PhotoCraft supports batch editing and cloud storage for easy sharing. It’s ideal for photographers, influencers, and creatives looking for quick, high-quality results. The intuitive interface and one-tap effects make PhotoCraft accessible to both beginners and professionals who want to create visually striking content effortlessly.",
+    "size": 120,
+    "reviews": 3300,
+    "ratingAvg": 4.7,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8nN88H5R/shop-Smart.jpg",
+    "title": "ShopSmart - Online Deals",
+    "companyName": "BargainWorld",
+    "id": 17,
+    "description": "ShopSmart is a fast and reliable online shopping app offering exclusive discounts and deals on fashion, electronics, and home goods. The app’s AI-powered search helps you find the best prices from trusted sellers instantly. ShopSmart features real-time flash sales, order tracking, and personalized recommendations. You can save your favorite items, receive deal alerts, and compare prices across multiple stores. The secure payment gateway ensures safe transactions. ShopSmart’s intuitive interface makes online shopping effortless and enjoyable. Whether you’re a bargain hunter or a casual shopper, ShopSmart helps you save money while discovering quality products daily.",
+    "size": 102,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zzvbv4y/skill-Forge.jpg",
+    "title": "SkillForge - Career Courses",
+    "companyName": "GrowEdge Learning",
+    "id": 18,
+    "description": "SkillForge is a professional training app that helps users build job-ready skills through industry-certified courses. It covers fields like programming, marketing, design, and business management. Each course includes video lessons, hands-on projects, and expert mentorship. The app tracks your learning pace and provides career insights tailored to your goals. You can earn verified certificates and connect with global recruiters. SkillForge’s community forum fosters peer collaboration and networking. Designed for both beginners and professionals, SkillForge empowers users to grow their skills, enhance resumes, and boost career opportunities in a competitive global job market.",
+    "size": 110,
+    "reviews": 3800,
+    "ratingAvg": 4.8,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 710 },
+      { "name": "5 star", "count": 2480 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/PzVmnZHh/stock-Wise.png",
+    "title": "StockWise - Market Insights",
+    "companyName": "Equity Analytics Co.",
+    "id": 19,
+    "description": "StockWise delivers real-time stock data, investment tips, and analytics tools for both beginners and professionals. The app provides interactive charts, news updates, and customizable watchlists. You can track your portfolio, analyze trends, and get AI-powered recommendations on potential trades. StockWise also includes a virtual trading simulator to practice strategies without risk. Its alerts feature ensures you never miss key market movements or dividend updates. With secure login and data encryption, your financial information remains protected. StockWise empowers investors to make informed decisions and manage their wealth confidently in a fast-changing global market environment.",
+    "size": 77,
+    "reviews": 3100,
+    "ratingAvg": 4.7,
+    "downloads": 1450000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 330 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9HFGCBtg/taskify.png",
+    "title": "Taskify - Smart To-Do Manager",
+    "companyName": "NextWave Systems",
+    "id": 20,
+    "description": "Taskify is an intelligent to-do and project management app that helps you organize your life and boost productivity. With features like task categorization, reminders, and collaborative lists, Taskify ensures that you never miss a deadline again. It syncs across all your devices, allowing seamless task tracking from anywhere. You can set recurring tasks, add notes, and even attach files for better project context. Taskify’s clean interface makes managing work, study, or personal goals easy and enjoyable. It also includes productivity analytics to help identify peak focus times. Whether you’re managing a small project or a busy schedule, Taskify keeps everything structured and stress-free.",
+    "size": 60,
+    "reviews": 1750,
+    "ratingAvg": 4.4,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 85 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 470 },
+      { "name": "5 star", "count": 815 }
+    ]
+  }
+]
