@@ -13,11 +13,11 @@ const HeroSection = () => {
                     <h1 className='md:text-7xl text-4xl font-bold'>We Build <br /> <span className='text-[#9F62F2]'>Productive</span> Apps</h1>
                 <p className='text-[#627382] mt-4 mb-10'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br />Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
                 <div className='flex gap-2 items-center justify-center'>
-                    <Link to={'https://play.google.com/store/games?hl=en'} target='blank' className=' btn'>
+                    <Link to={'https://play.google.com/store/games?hl=en'} target='blank' className='btn hover:bg-[#9F62F2] hover:text-white border-2 border-[#9F62F2]'>
                         <BiLogoPlayStore className='text-2xl' />
                         Google Play
                     </Link>
-                    <Link to={'https://www.apple.com/app-store/'} target='blank' className=' btn'>
+                    <Link to={'https://www.apple.com/app-store/'} target='blank' className='btn hover:bg-[#9F62F2] hover:text-white border-2 border-[#9F62F2]'>
                         <FaAppStoreIos className='text-2xl' /> 
                         App store
                     </Link>

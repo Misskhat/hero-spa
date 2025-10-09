@@ -60,19 +60,19 @@ const NavBar = () => {
                 <ul className="menu menu-horizontal px-1 flex gap-4">
                     <NavLink
                         to={"/"}
-                        className={`text-blue-500 font-bold border-b-2 px-4 py-2 border-amber-700 hover:bg-blue-800 hover:text-white hover:font-bold hover:border-b-2 hover:px-4 hover:py-2 hover:rounded transition-all`}
+                        className={`text-blue-500 font-bold border-b-2 px-4 py-2 border-amber-700 hover:bg-[#9F62F2] hover:text-white hover:font-bold hover:border-b hover:px-4 hover:py-2 hover:rounded transition-all`}
                     >
                         Home
                     </NavLink>
                     <NavLink
                         to={"/apps"}
-                        className={`text-blue-500 font-bold border-b-2 px-4 py-2 border-amber-700 hover:bg-blue-800 hover:text-white hover:font-bold hover:border-b-2 hover:px-4 hover:py-2 hover:rounded transition-all`}
+                        className={`text-blue-500 font-bold border-b-2 px-4 py-2 border-amber-700 hover:bg-[#9F62F2] hover:text-white hover:font-bold hover:border-b hover:px-4 hover:py-2 hover:rounded transition-all`}
                     >
                         Apps
                     </NavLink>
                     <NavLink
                         to={"/installation"}
-                        className={`text-blue-500 font-bold border-b-2 px-4 py-2 border-amber-700 hover:bg-blue-800 hover:text-white hover:font-bold hover:border-b-2 hover:px-4 hover:py-2 hover:rounded transition-all`}
+                        className={`text-blue-500 font-bold border-b-2 px-4 py-2 border-amber-700 hover:bg-[#9F62F2] hover:text-white hover:font-bold hover:border-b hover:px-4 hover:py-2 hover:rounded transition-all`}
                     >
                         Installation
                     </NavLink>
