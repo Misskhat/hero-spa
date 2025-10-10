@@ -1,6 +1,7 @@
 import {Link} from "react-router";
 import downloadsIcon from "../../assets/icon-downloads.png";
 import ratingIcon from "../../assets/icon-ratings.png";
+import { useState } from "react";
 
 const TrandingApp = ({app}) => {
     const {image, title, ratingAvg, downloads, id} = app;

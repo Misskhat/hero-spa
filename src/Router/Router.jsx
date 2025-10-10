@@ -3,14 +3,16 @@ import Root from "../Pages/Root/Root";
 import Home from "../Pages/Home/Home";
 import Apps from "../Pages/Apps/Apps";
 import Installation from "../Pages/Installation/Installation";
-import ErrorPage from "../Pages/ErrorPage/ErrorPage";
+
 import AppDetails from "../Pages/AppDetails/AppDetails";
+import ErrorPage from "../Pages/ErrorPage/ErrorPage";
+import AppError from "../Pages/ErrorPage/AppError";
 
 export const router = createBrowserRouter([
     {
         path: "/",
         element: <Root></Root>,
-        errorElement: <ErrorPage></ErrorPage>,
+        errorElement: <AppError></AppError>,
         children: [
             {
                 index: true,
@@ -32,10 +34,10 @@ export const router = createBrowserRouter([
                 loader: () => fetch("../apps.json"),
                 element: <AppDetails></AppDetails>,
             },
-        ],
-    },
-    // {
-    //     path: "*",
-    //     element: <ErrorPage></ErrorPage>,
-    // },
+            {
+                path: "*",
+                element: <ErrorPage></ErrorPage>
+            }
+        ]
+    }
 ]);

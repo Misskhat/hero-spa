@@ -2,9 +2,12 @@ import { Bar, BarChart, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'r
 import download from '../../assets/icon-downloads.png'
 import rating from '../../assets/icon-ratings.png'
 import review from '../../assets/icon-review.png'
-import {useLoaderData, useParams} from "react-router";
+import {Link, useLoaderData, useParams} from "react-router";
+import { savedLS } from '../../storeLS/storeLS';
+import { useState } from 'react';
 
 const AppDetails = () => {
+    const [installBTN, setInstallBTN] = useState(false)
     const {id} = useParams();
     // console.log(id);
     let idConvert = parseInt(id)
@@ -14,10 +17,16 @@ const AppDetails = () => {
     const clickApp = data.find(app => app.id === idConvert);
     // console.log(clickApp);
     const {image, title, companyName, description, size, reviews, ratingAvg, downloads, ratings} = clickApp
+
+    const handleInstallBTN = (id) =>{
+        setInstallBTN(true)
+        savedLS(id)
+    }
+
     return (
         <div className="md:w-[1280px] mx-auto md:my-20 my-10">
             <div className="md:flex gap-10">
-                <div className="md:w-[350px] md:h-[300px] rounded">
+                <div className="md:w-[350px] md:h-[380px] rounded">
                     <img className='md:w-[350px] md:h-[350px] object-cover' src={image} alt="" />
                 </div>
                 <div className="md:flex-1">
@@ -47,7 +56,10 @@ const AppDetails = () => {
                             <h3 className='font-extrabold text-4xl'><span> {reviews / 1000} </span>K</h3>
                         </div>
                     </div>
-                     <button className="btn btn-success bg-[#00D390] text-white mt-7">Install Now ({size}MB)</button>
+                     {
+                        installBTN ? <button className='btn btn-disabled mt-7'>Install Now ({size}MB)</button>:
+                        <button onClick={()=> handleInstallBTN(id)} className="btn btn-success bg-[#00D390] text-white mt-7">Install Now ({size}MB)</button>
+                     }
                 </div>
             </div>
             <div className='divider'></div>

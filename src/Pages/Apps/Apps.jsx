@@ -1,10 +1,17 @@
 import { IoSearch } from "react-icons/io5";
 import { useLoaderData } from "react-router";
 import TrandingApp from "../../Components/TrandingApp/TrandingApp";
+import { useState } from "react";
 
 const Apps = () => {
+    
     const data = useLoaderData()
-    // console.log(data);
+    const [search, setSearch] = useState('')
+    const term = search?.trim()?.toLowerCase()
+    const searchProduct = term ? data.filter(app=> app.name?.toLowerCase()?.includes(term)): data 
+
+    console.log(searchProduct);
+
     return (
         <div className="mx-auto my-20">
             <div className="text-center">
@@ -18,13 +25,13 @@ const Apps = () => {
                 <div className="max-sm:p-4">
                     <label className="input">
                         <IoSearch className="opacity-50 text-xl" />
-                        <input type="search" required placeholder="Search" />
+                        <input defaultValue={search} onChange={e=>setSearch(e.target.value)} type="search" required placeholder="Search" />
                     </label>
                 </div>
             </div>
             <div className="grid md:grid-cols-4 grid-cols-1 gap-5 md:w-[1280px] mx-auto">
                 {
-                    data.map(app=> <TrandingApp key={app.id} app={app}></TrandingApp>)
+                    searchProduct.map(app=> <TrandingApp key={app.id} app={app}></TrandingApp>)
                 }
             </div>
         </div>
